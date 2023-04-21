@@ -1,0 +1,16 @@
+{
+  "name": "omi-wow-update",
+  "version": "1.0.0",
+  "description": "update my wow addons",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "wow",
+    "addon",
+    "manager"
+  ],
+  "author": "@omi",
+  "license": "MIT"
+}
